@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,19 +28,19 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-   instagram: shriaas.rpm
+   -instagram: shriaas.rpm
   # keybase: your_username
-   linkedin: https://www.linkedin.com/in/aastha-shrivastava-b45aab140/
+   -linkedin: https://www.linkedin.com/in/aastha-shrivastava-b45aab140/
   # mastodon: your_username
-   medium: shriaas2898
+   -medium: shriaas2898
   # stackoverflow: your_user_id
   # telegram: your_username
-   twitter: shriaas2898
+   -twitter: shriaas2898
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
